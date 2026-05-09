@@ -1,1 +1,40 @@
 
+<!DOCTYPE html>
+          <a href="https://wa.me/919268410625" class="order-button" target="_blank">
+            Order Now on WhatsApp
+          </a>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-image">
+          Add Product Image Here
+        </div>
+
+        <div class="product-details">
+          <span class="product-category">Designer Collection</span>
+          <h2 class="product-title">Modern Indo-Western Suit</h2>
+          <div class="product-price">₹2,799</div>
+
+          <p class="product-description">
+            Contemporary ethnic fashion blending modern design with traditional elegance.
+          </p>
+
+          <a href="https://wa.me/919268410625" class="order-button" target="_blank">
+            Order Now on WhatsApp
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <h3>Kishori Sarees & Suit Creations</h3>
+    <p>Tradition with Trend</p>
+    <p>A-24 Indra Enclave Govindpuram, Ghaziabad 201013</p>
+    <p>Phone: 9268410625</p>
+  </footer>
+
+</body>
+</html>
